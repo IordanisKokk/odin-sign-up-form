@@ -50,7 +50,7 @@ body {
 
 .left-container {
     background-color: #fff;
-    background-image: url(/resources/backsplash-image.jpg);
+    background-image: url(resources/backsplash-image.jpg);
     width: 50%;
     background-position: center;
     background-size: 150%;
